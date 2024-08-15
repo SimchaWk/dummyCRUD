@@ -8,12 +8,12 @@
         {
             Console.WriteLine($"Request: {DateTime.Now}");
 
-            var path = context.Request.Path;
+            PathString path = context.Request.Path;
             Console.WriteLine($"Request: {path}");
 
             await _next(context);
 
-            var status = context.Response.StatusCode;
+            int status = context.Response.StatusCode;
             Console.WriteLine($"Request: {status}");
         }
     }
