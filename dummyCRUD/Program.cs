@@ -1,3 +1,5 @@
+using DummyCRUD.Middleware;
+
 namespace DummyCRUD
 {
     public class Program
@@ -25,6 +27,9 @@ namespace DummyCRUD
             app.UseHttpsRedirection();
             app.UseStaticFiles();
 
+            // for Middleware
+            app.UseMiddleware<SimpleMiddleware>();
+            app.UseRouting();
             app.UseRouting();
 
             app.UseAuthorization();

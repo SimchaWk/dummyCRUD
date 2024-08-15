@@ -250,3 +250,4 @@ C:\Users\Simch\source\repos\dummyCRUD\dummyCRUD\bin\Debug\net8.0\runtimes\win\li
 C:\Users\Simch\source\repos\dummyCRUD\dummyCRUD\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 C:\Users\Simch\source\repos\dummyCRUD\dummyCRUD\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\Simch\source\repos\dummyCRUD\dummyCRUD\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\Simch\source\repos\DummyCRUD\dummyCRUD\obj\Debug\net8.0\DummyCRUD.sourcelink.json

@@ -11,7 +11,7 @@
         "projectName": "DummyCRUD",
         "projectPath": "C:\\Users\\Simch\\source\\repos\\DummyCRUD\\dummyCRUD\\DummyCRUD.csproj",
         "packagesPath": "C:\\Users\\Simch\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Simch\\source\\repos\\dummyCRUD\\dummyCRUD\\obj\\",
+        "outputPath": "C:\\Users\\Simch\\source\\repos\\DummyCRUD\\dummyCRUD\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
